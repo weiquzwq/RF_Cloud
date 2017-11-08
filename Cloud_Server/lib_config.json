@@ -1,0 +1,5 @@
+[
+	{"api":"appium","lib":"AppiumLibrary"},
+	{"api":"request","lib":"RequestsLibrary"},
+	{"api":"macaca","lib":"MacacaLibrary"}
+]
